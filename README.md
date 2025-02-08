@@ -34,7 +34,7 @@ Based on the Silhouette Score, Davies-Bouldin Index, and Adjusted Rand Index, th
 ## How to Run
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/clustering-analysis.git
+    git clone https://github.com/Pankaj1662005/ass-3-rana-
     ```
 2. Open the notebook in Google Colab:
     - Go to [Google Colab](https://colab.research.google.com/).
